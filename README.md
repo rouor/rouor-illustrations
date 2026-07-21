@@ -11,6 +11,7 @@ ROUROU Illustrations 是一个可供 Codex 与 WorkBuddy/Claude Code 使用的 A
 它不追求商业插画或正式信息图，而是先提炼文章里的“认知动作”，再把一个判断、流程、结构或状态转成可读、有记忆点的纸本隐喻。
 
 默认视觉 IP 是 ROUROU（揉揉）：一张带雾霾蓝回形针、陶土红缝线、直腿和弹簧腿的暖白揉皱纸张小工匠。ROUROU 必须亲手推动结构运转，不能只是站在旁边。
+ROUROU是ROUOR DESIGN 一淼AI创新工作室创意 感谢小黑skill的原创skill
 
 ## 视觉语言
 
