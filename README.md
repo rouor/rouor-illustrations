@@ -6,7 +6,7 @@
 
 ## 这个仓库是什么
 
-ROUROU Illustrations 是一个可供 Codex 与 WorkBuddy/Claude Code 使用的 Agent Skill，用来为中文文章、帖子、博客、Notion 文档和方法论内容规划并生成正文配图。
+ROUROU Illustrations 是一个可供 Codex 与 WorkBuddy/Claude Code 使用的 Agent Skill，用来为中文文章、帖子、微信文章、博客、Notion 文档和方法论内容规划并生成正文配图。
 
 它不追求商业插画或正式信息图，而是先提炼文章里的“认知动作”，再把一个判断、流程、结构或状态转成可读、有记忆点的纸本隐喻。
 
